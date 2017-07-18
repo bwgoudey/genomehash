@@ -86,3 +86,12 @@ Create five character hashes for extracted alleles and write to file
 
 ## License: 
 MIT License, see license.txt for details
+
+## Todo: 
+
+* Convert to R package while maintaining command line interface
+* Add unit testing
+* Improve output to allow more interpretation around confidence
+* Add example data
+* Add existing databases
+
